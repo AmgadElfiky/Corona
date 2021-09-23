@@ -1,0 +1,5 @@
+smoothscrool      done
+wow   done
+nice scrool  not working <-
+navbar js 
+floating button  done
